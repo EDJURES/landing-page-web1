@@ -1,0 +1,25 @@
+/* src/styles/variables.css */
+:root {
+  /* Colores */
+  --color-primary: #e75480;       /* Rosa principal (Tressandé) */
+  --color-primary-light: #f8c0d0;
+  --color-dark: #1a1a1a;
+  --color-gray: #6b7280;
+  --color-light: #ffffff;
+  --color-bg: #ffffff;
+
+  /* Tipografías */
+  --font-primary: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+  --font-secondary: 'Playfair Display', serif;
+
+  /* Espaciados */
+  --space-xs: 0.5rem;
+  --space-sm: 1rem;
+  --space-md: 1.5rem;
+  --space-lg: 2.5rem;
+  --space-xl: 4rem;
+
+  /* Radios y sombras */
+  --radius: 1rem;
+  --shadow: 0 10px 25px rgba(0, 0, 0, 0.08);
+}
